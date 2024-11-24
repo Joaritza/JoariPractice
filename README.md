@@ -1,0 +1,2 @@
+# JoariPractice
+My personal repository
